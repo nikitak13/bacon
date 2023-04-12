@@ -1,0 +1,21 @@
+
+.bacon{
+    background-color: goldenrod;
+}
+.broccoli{
+    background-color: lightblue;
+}
+
+img:hover{
+    background-color: gold;
+}
+.circular{
+    border-radius: 100%;
+}
+h1{
+    font-size: 50px;
+    color: lightcoral;
+}
+#heading{
+    color: aqua;
+}
